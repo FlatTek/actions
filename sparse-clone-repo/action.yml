@@ -16,7 +16,7 @@ inputs:
   repo_local_dir:
     description: "Local target directory into which the repository will be cloned within the workspace [example: FlatTek]"
     required: true
-    
+   
 
 outputs:
   completion_time:

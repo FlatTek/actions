@@ -37,7 +37,7 @@ runs:
         FTP_PWD: ${{ inputs.ftp_pwd }}
 
       run: |
-        # Building the MkDocs site
+        # FTP files from the workspace to the site
 
         echo "######################################################################"
        
